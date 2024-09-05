@@ -44,7 +44,7 @@
 }
 
 .progress-indicator {
-    -fx-progress-color: red;    
+    -fx-progress-color: red;
 }
 
 .progress-indicator .percentage {
@@ -75,7 +75,7 @@
 }
 
 .time .bar {
-    -fx-background-color: linear-gradient(from 0em 0em to 8em 0em, green 30%, yellow 60%, red);
+    -fx-background-color: linear-gradient(from 0em 0em to 8em 0em, #4573e8 30%, #5faf5b 60%, #e68b46);
     -fx-background-radius: 0;
 }
 
